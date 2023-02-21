@@ -1,2 +1,2 @@
-# 211-projects
-Some projects for the class (code 211)
+# Chess Game/Object-Oriented Design and Programming Course Project
+
